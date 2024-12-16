@@ -1,0 +1,66 @@
+[
+    {
+      "id": "47536748",
+      "name": "Sabji Roti",
+      "category": "Tiffins",
+      "description": "Veg sabji with (4pcs phulka or 2pcs paratha) - serves 1",
+      "price": 8000,
+      "rating": "4.5"
+    },
+    {
+      "id": "45369504",
+      "name": "Dhapata ( Thepla ) Meal",
+      "category": "Tiffins",
+      "description": "Dhapate ( 3 pcs ) + peanut chutney + pickle + ketchup",
+      "price": 14900,
+      "rating": "4.5"
+    },
+    {
+      "id": "47536751",
+      "name": "Dal Rice",
+      "category": "Tiffins",
+      "description": "Home Made Daal With Steam Rice - Serves 1",
+      "price": 8000,
+      "rating": "4.7"
+    },
+    {
+      "id": "44705187",
+      "name": "Stuffed Paratha Meal",
+      "category": "Tiffins",
+      "description": "Stuffed paratha (3 pcs) + curd + pickle + ketchup",
+      "price": 14900,
+      "rating": "4.2"
+    },
+    {
+      "id": "90736228",
+      "name": "Stuffed Paratha",
+      "category": "Tiffins",
+      "description": "1 pc stuffed paratha + curd + pickle + ketchup",
+      "price": 7000
+    },
+    {
+      "id": "44705189",
+      "name": "Phulka",
+      "category": "Extra",
+      "description": "Whole wheat home made roti",
+      "price": 1200,
+      "rating": "4.8"
+    },
+    {
+      "id": "47536749",
+      "name": "Ghar Ki Daal",
+      "category": "Extra",
+      "description": "Home Made Daal - Serves 1",
+      "price": 6000,
+      "rating": "4.3"
+    },
+    {
+      "id": "47536750",
+      "name": "Jeera Rice",
+      "category": "Extra",
+      "description": "Home Made Jeera Rice - Serves 1",
+      "price": 6000,
+      "rating": "4.8"
+    }
+  ]
+
